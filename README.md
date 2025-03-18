@@ -4,7 +4,7 @@
 
 - **Multi-Wallet Support**: Manage multiple wallets simultaneously.
 - **Auto-Retry with Detailed Information**: Handle bad request, etc.
-- **Auto chech every 1 hour**: Get insights into your node.
+- **Auto check every 1 hour**: Get insights into your node.
 - **Cross-Platform Compatibility**: Works on Windows, macOS, and Linux.
 
 ## 🚀 Installation
