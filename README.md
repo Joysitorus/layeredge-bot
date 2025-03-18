@@ -18,7 +18,7 @@
    ```bash
    npm install
    ```
-3. Create a wallets.txt file and add your wallet addresses and private keys:
+3. Create a wallets.json file and add your wallet addresses and private keys:
    ```bash
    [
     {
